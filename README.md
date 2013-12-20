@@ -12,5 +12,5 @@
 <li>Ubica tu curso y dentro de cada carpeta encontrarás todas las clases divididas por tema.</li>
 
 <li>Puedes dar un Fork al repositorio y estar actualizado siempre con GIT ó puedes descargar los .ZIP de cada curso, incluidos
-en su carpeta. y esto es un contenido de prueba de fetcg</li>
+en su carpeta. una prueba vas</li>
 </li>
